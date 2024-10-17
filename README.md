@@ -1,7 +1,8 @@
 # Frontend-Project
 
 Welcome to the **Frontend Project** repository! This project contains front-end development code and resources.
-I developed small projects to learn concepts like grid, js basic, responsive, and others.
+
+**I developed small projects to learn concepts like grid, js basic, responsive, and others.**
 
 ## Repository Overview
 
